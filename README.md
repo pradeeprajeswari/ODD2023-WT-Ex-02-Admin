@@ -24,6 +24,6 @@ Add some users according to the user.
 # output
 ![useradmin png](https://github.com/pradeeprajeswari/ODD2023-WT-Ex-02-Admin/assets/145743112/cd780077-92ce-4ad7-84eb-7730aef79f16)
 
-#result
+# result
 The output is successful
 
